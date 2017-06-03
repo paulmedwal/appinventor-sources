@@ -23,7 +23,7 @@ public class JSDesignerPanel extends HTMLPanel {
 
   public JSDesignerPanel() {
     super("<div id=\"root\"></div>");
-    ScriptInjector.fromUrl("main.9de011e5.js").inject();
+    ScriptInjector.fromUrl("main.ed5db64c.js").inject();
   }
 
   public void show() {
